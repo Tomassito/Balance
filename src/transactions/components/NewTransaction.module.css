@@ -1,0 +1,27 @@
+.header{
+    margin-bottom: 16px !important;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: flex-start;
+}
+
+.form > button {
+    align-self: flex-end;
+    margin-top: -16px;
+}
+
+.formBlock {
+    display: flex;
+    gap: 32px;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.formBlock > * {
+    min-height: 79px;
+    flex: 1;
+}

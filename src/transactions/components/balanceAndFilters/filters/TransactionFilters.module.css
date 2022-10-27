@@ -1,0 +1,13 @@
+.container {
+    text-align: left;
+}
+
+.header {
+    margin-bottom: 16px !important;
+}
+
+.clearButton {
+    width: 30px;
+    height: 30px;
+    font-size: 15px !important;
+}

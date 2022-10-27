@@ -1,0 +1,15 @@
+.container {
+    flex-basis: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-height: 500px;
+}
+
+.deleteButton {
+    align-self: flex-end;
+}
+
+.tableCell {
+    padding: 8px 10px !important;
+}
